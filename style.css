@@ -1,0 +1,15 @@
+th,td{
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+h1{
+    border-style: dotted ;
+    color: blue;
+}
+  
